@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liamgingell" alt="liamgingell" /></a> </p>
 
-- 🔭 I’m currently working on [Rokechi](https://github.com/liamgingell/rokechi)
-    An app for finding and visiting film locations anywhere!
+- 🔭 I’m currently working on [Rokechi](https://github.com/liamgingell/rokechi), an app for finding and visiting film locations anywhere!
 
 - 🌱 I’m currently learning **React**
 
