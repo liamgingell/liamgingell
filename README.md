@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Liam Gingell</h1>
-<h3 align="center">A junior frontend developer from Scotland</h3>
+<h3 align="center">A junior frontend developer from Scotland based in Japan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liamgingell" alt="liamgingell" /></a> </p>
 
 - 🔭 I’m currently working on [Rokechi](https://github.com/liamgingell/rokechi)
+    An app for finding and visiting film locations anywhere!
 
 - 🌱 I’m currently learning **React**
 
@@ -17,4 +18,8 @@
 
 <h3 align="center">What i'm listening to...</h3>
 
+<p align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1149772195&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1149772195&redirect=true)
+
+</p>
