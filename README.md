@@ -18,7 +18,7 @@
 <h3 align="center">What i'm listening to...</h3>
 
 <p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1149772195&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1149772195&redirect=true)
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1149772195&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1149772195&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
 </p>
